@@ -1,13 +1,12 @@
-# PyThaiNlp Workshop - 4th BADs 
+# PyThaiNlp Workshop 
 
 
-
-Updated: 1 November 2019 14:00
+Updated: 2 March 2020
   -  Add links to all workshop notebooks in Google Colab.
 
 ------------
 
-__Slides:__ https://docs.google.com/presentation/d/1627AVwlwHqvrBUwd9ZXgsRD-75rdz8X8Pcso66cB8oU/edit?usp=sharing
+__Slides:__ https://docs.google.com/presentation/d/1Dh-4ZXYuHtbaO1zZJZVhHD2rvEJA9krkaX3vywh4dNc/edit?usp=sharing
 
 
 
